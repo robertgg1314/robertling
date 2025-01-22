@@ -5,77 +5,148 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Robert's Homepage</title>
     <style>
+        :root {
+            --primary-color: #2c3e50;
+            --accent-color: #3498db;
+            --background-color: #f9fbfd;
+        }
+
         body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f4f4f9;
-            color: #333;
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background-color: var(--background-color);
+            color: var(--primary-color);
             margin: 0;
-            padding: 20px;
+            padding: 40px 20px;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
         }
 
         header {
-            text-align: center;
-            padding: 50px 0;
-            background-color: #007acc;
-            color: white;
-            border-radius: 8px;
+            text-align: left;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 3px solid var(--accent-color);
         }
 
         h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
+            font-size: 2.8rem;
+            margin: 0;
+            color: var(--primary-color);
+            letter-spacing: -0.05em;
         }
 
-        p {
-            font-size: 1.2em;
+        .card-container {
+            display: grid;
+            gap: 25px;
         }
 
-        ul {
-            list-style-type: none;
-            padding: 0;
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 25px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            transition: transform 0.2s, box-shadow 0.2s;
+            border: 1px solid #e0e4e8;
         }
 
-        li {
-            margin: 10px 0;
+        .card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .card h2 {
+            margin: 0 0 15px 0;
+            color: var(--accent-color);
+            font-size: 1.4rem;
+        }
+
+        .card p {
+            margin: 0 0 12px 0;
+            color: #666;
+            font-size: 1rem;
+        }
+
+        .card-footer {
+            font-size: 0.85rem;
+            color: #95a5a6;
+            margin-top: 15px;
+            border-top: 1px solid #eee;
+            padding-top: 12px;
         }
 
         a {
+            color: var(--accent-color);
             text-decoration: none;
-            color: #007acc;
-            padding: 10px 15px;
-            border-radius: 5px;
-            transition: background-color 0.3s, color 0.3s;
+            position: relative;
         }
 
-        a:hover {
-            background-color: #005fa3;
-            color: white;
+        a::after {
+            content: '';
+            position: absolute;
+            width: 0;
+            height: 2px;
+            bottom: -2px;
+            left: 0;
+            background-color: var(--accent-color);
+            transition: width 0.3s ease;
+        }
+
+        a:hover::after {
+            width: 100%;
         }
 
         footer {
             text-align: center;
-            margin-top: 50px;
-            font-size: 0.9em;
+            margin-top: 60px;
+            color: #95a5a6;
+            font-size: 0.9rem;
         }
     </style>
 </head>
 <body>
-    <header>
-        <h1>欢迎来到我的个人主页</h1>
-        <p>你好，我是Robert，欢迎访问我的GitHub页面！</p>
-    </header>
+    <div class="container">
+        <header>
+            <h1>Robert's Space</h1>
+        </header>
 
-    <main>
-        <h2>我的项目</h2>
-        <ul>
-            <li><a href="https://github.com/robertgg1314/项目1">项目1</a></li>
-            <li><a href="https://github.com/robertgg1314/项目2">项目2</a></li>
-            <!-- 添加更多项目链接 -->
-        </ul>
-    </main>
+        <main>
+            <div class="card-container">
+                <!-- 项目卡片 -->
+                <article class="card">
+                    <h2>GitHub 项目</h2>
+                    <p>展示我的主要开发项目和开源贡献</p>
+                    <ul style="padding-left: 20px; margin: 10px 0;">
+                        <li><a href="https://github.com/robertgg1314/项目1">项目1 - 智能数据平台</a></li>
+                        <li><a href="https://github.com/robertgg1314/项目2">项目2 - 机器学习框架</a></li>
+                    </ul>
+                    <div class="card-footer">持续更新中</div>
+                </article>
 
-    <footer>
-        <p>&copy; 2023 Robert's Homepage. All rights reserved.</p>
-    </footer>
+                <!-- 技术动态卡片 -->
+                <article class="card">
+                    <h2>最新动态</h2>
+                    <p>• 正在研究分布式系统优化方案</p>
+                    <p>• 参与开源社区AI项目开发</p>
+                    <div class="card-footer">技术追踪</div>
+                </article>
+
+                <!-- 文章卡片 -->
+                <article class="card">
+                    <h2>技术文章</h2>
+                    <p>• 云原生架构实践指南</p>
+                    <p>• 量子计算基础理论解析</p>
+                    <div class="card-footer">阅读量 1.2k+</div>
+                </article>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2023 Robert's Innovation Space. Powered by Curiosity.</p>
+        </footer>
+    </div>
 </body>
 </html>
