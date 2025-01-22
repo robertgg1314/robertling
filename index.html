@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Robert's Homepage</title>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
     <style>
         :root {
             --primary-color: #2c3e50;
@@ -12,12 +13,13 @@
         }
 
         body {
-            font-family: 'Segoe UI', system-ui, sans-serif;
+            font-family: 'IBM Plex Mono', monospace;
             background-color: var(--background-color);
             color: var(--primary-color);
             margin: 0;
             padding: 40px 20px;
             line-height: 1.6;
+            font-weight: 400;
         }
 
         .container {
@@ -37,6 +39,7 @@
             margin: 0 0 15px 0;
             color: var(--primary-color);
             letter-spacing: -0.05em;
+            font-weight: 600;
         }
 
         .card-container {
@@ -66,6 +69,7 @@
             margin: 0 0 15px 0;
             color: var(--accent-color);
             font-size: 1.4rem;
+            font-weight: 500;
         }
 
         .card-content {
@@ -99,6 +103,7 @@
             color: var(--accent-color);
             text-decoration: none;
             position: relative;
+            font-weight: 500;
         }
 
         a::after {
@@ -123,22 +128,6 @@
             font-size: 0.9rem;
         }
 
-        /* 加载动画 */
-        .loader {
-            border: 4px solid #f3f3f3;
-            border-radius: 50%;
-            border-top: 4px solid var(--accent-color);
-            width: 40px;
-            height: 40px;
-            animation: spin 1s linear infinite;
-            margin: 20px auto;
-        }
-
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-
         @media (max-width: 768px) {
             .container {
                 padding: 20px;
@@ -158,53 +147,51 @@
     <div class="container">
         <header>
             <h1>Robert's Tech Space</h1>
-            <p>开发者 | 技术写作者 | 播客主理人</p>
+            <p>Developer | Technical Writer | Podcast Host</p>
         </header>
 
         <main>
             <div class="card-container">
                 <!-- 播客列表卡片 -->
                 <article class="card">
-                    <h2>技术播客</h2>
+                    <h2>TECH PODCAST</h2>
                     <div class="card-content">
-                        <div class="loader"></div>
                         <div class="podcast-container">
                             <iframe 
                                 class="podcast-iframe"
                                 src="https://www.xiaoyuzhoufm.com/podcast/6727473bcbe0e69c8bbcff80"
                                 loading="lazy"
-                                sandbox="allow-scripts allow-same-origin allow-popups"
-                                onload="this.previousElementSibling.style.display='none'">
+                                sandbox="allow-scripts allow-same-origin allow-popups">
                             </iframe>
                         </div>
                     </div>
                     <div class="card-footer">
-                        更新于 <span id="update-date">加载中...</span>
+                        UPDATED: <span id="update-date">Loading...</span>
                     </div>
                 </article>
 
                 <!-- GitHub项目卡片 -->
                 <article class="card">
-                    <h2>开源项目</h2>
+                    <h2>OPEN SOURCE</h2>
                     <div class="card-content">
                         <ul style="padding-left: 20px; margin: 10px 0;">
-                            <li><a href="https://github.com/robertgg1314/项目1">智能数据平台</a></li>
-                            <li><a href="https://github.com/robertgg1314/项目2">ML框架优化</a></li>
-                            <li><a href="https://github.com/robertgg1314/项目3">分布式系统工具包</a></li>
+                            <li><a href="https://github.com/robertgg1314/项目1">Data Platform</a></li>
+                            <li><a href="https://github.com/robertgg1314/项目2">ML Framework</a></li>
+                            <li><a href="https://github.com/robertgg1314/项目3">Distributed Toolkit</a></li>
                         </ul>
                     </div>
-                    <div class="card-footer">⭐ 累计获得 1.2k stars</div>
+                    <div class="card-footer">⭐ 1.2k Stars</div>
                 </article>
 
                 <!-- 技术动态卡片 -->
                 <article class="card">
-                    <h2>近期动态</h2>
+                    <h2>RECENT</h2>
                     <div class="card-content">
-                        <p>• 发布分布式系统优化白皮书</p>
-                        <p>• 开源项目v2.0版本上线</p>
-                        <p>• 即将参加AI开发者大会演讲</p>
+                        <p>• Published System Optimization White Paper</p>
+                        <p>• Released Project v2.0</p>
+                        <p>• Upcoming AI Conference Talk</p>
                     </div>
-                    <div class="card-footer">最后更新: 2023年12月</div>
+                    <div class="card-footer">Last Update: Dec 2023</div>
                 </article>
             </div>
         </main>
@@ -217,9 +204,9 @@
     <script>
         // 自动更新日期
         document.getElementById('update-date').textContent = 
-            new Date().toLocaleDateString('zh-CN', { 
+            new Date().toLocaleDateString('en-US', { 
                 year: 'numeric', 
-                month: 'long', 
+                month: 'short', 
                 day: 'numeric' 
             });
     </script>
