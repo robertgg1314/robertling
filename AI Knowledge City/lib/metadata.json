@@ -1,103 +1,12 @@
 {
   "vaultName": "Robert",
-  "lastExport": 1737701789514,
+  "lastExport": 1737705434017,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "DAILY/24-10.canvas",
-    "DAILY/24-11.canvas",
-    "DAILY/24-12.canvas",
-    "DAILY/25-01.canvas",
-    "DAILY/2024.canvas",
     "DAILY.canvas",
-    "lib/media/pasted-image-20250102145831.png",
-    "lib/media/pasted-image-20250102145843.png",
-    "lib/media/pasted-image-20250102145958.png",
-    "lib/media/pasted-image-20250102150241.png",
-    "lib/media/pasted-image-20250102150229.png",
-    "lib/media/pasted-image-20250102150254.png",
-    "lib/media/pasted-image-20250102171452.png",
-    "lib/media/pasted-image-20250102171530.png",
-    "lib/media/pasted-image-20250102172847.png",
-    "lib/media/pasted-image-20250102172924.png",
-    "lib/media/pasted-image-20250102172955.png",
-    "lib/media/pasted-image-20250102173022.png",
-    "lib/media/pasted-image-20250102173053.png",
-    "lib/media/pasted-image-20250102173057.png",
-    "lib/media/pasted-image-20250102173101.png",
-    "lib/media/pasted-image-20250102173751.png",
-    "lib/media/pasted-image-20250102173807.png",
-    "lib/media/pasted-image-20250102173820.png",
-    "lib/media/pasted-image-20250116195648.png",
-    "lib/media/pasted-image-20250116194715.png",
-    "lib/media/pasted-image-20250116195130.png",
-    "lib/media/pasted-image-20250113195935.png",
-    "lib/media/pasted-image-20250120200421.png",
-    "lib/media/pasted-image-20250117191816.png",
-    "lib/media/pasted-image-20250116195741.png",
-    "lib/media/pasted-image-20250116203212.png",
-    "lib/media/pasted-image-20250117191108.png",
-    "lib/media/pasted-image-20250117190941.png",
-    "lib/media/pasted-image-20250113195025.png",
-    "lib/media/pasted-image-20250113195038.png",
-    "lib/media/pasted-image-20250113195542.png",
-    "lib/media/pasted-image-20250113194643.png",
-    "lib/media/pasted-image-20250113194636.png",
-    "lib/media/pasted-image-20250113194600.png",
-    "lib/media/pasted-image-20250113194555.png",
-    "lib/media/pasted-image-20250120201130.png",
-    "lib/media/pasted-image-20250120201221.png",
-    "lib/media/pasted-image-20250120201048.png",
-    "lib/media/pasted-image-20250120201237.png",
-    "lib/media/pasted-image-20250121050301.png",
-    "lib/media/pasted-image-20250121050131.png",
-    "lib/media/pasted-image-20250121050213.png",
-    "lib/media/pasted-image-20250121050226.png",
-    "lib/media/pasted-image-20250121050235.png",
-    "lib/media/640-2.gif",
-    "lib/media/640-3.gif",
-    "lib/media/640-4.gif",
-    "lib/media/pasted-image-20250120201412.png",
-    "lib/media/pasted-image-20250121204424.png",
-    "lib/media/pasted-image-20250121204225.png",
-    "lib/media/pasted-image-20250121204230.png",
-    "lib/media/pasted-image-20250121204431.png",
-    "lib/media/pasted-image-20250121204508.png",
-    "lib/media/pasted-image-20250121204345.png",
-    "lib/media/640-7.gif",
-    "lib/media/640-8.gif",
-    "lib/media/640-10.gif",
-    "lib/media/640-11.gif",
-    "lib/media/pasted-image-20250121203930.png",
-    "lib/media/640-5.gif",
-    "lib/media/640-6.gif",
-    "lib/media/640-9.gif",
-    "lib/media/pasted-image-20250121203543.png",
-    "lib/media/640.gif",
-    "lib/media/640-1.gif",
-    "lib/media/pasted-image-20250109132739.png",
-    "lib/media/470121736402187_.pic.jpg",
-    "lib/media/759006.png",
-    "lib/media/640-3.webp",
-    "lib/media/acq_web_bio-alexhormozi-2.webp",
-    "lib/media/640-4.webp",
-    "lib/media/640-5.webp",
-    "lib/media/task_3-1400.webp",
-    "lib/media/17170543581931695551054782toregem_1_ypbtua.png",
-    "lib/media/640-2.webp",
-    "lib/media/640.webp",
-    "lib/media/640-1.webp",
-    "lib/media/5396ee05ly1hx8xf1idqdj23843uqkjr.jpg",
-    "lib/media/write_alphabet.gif",
-    "lib/media/alphabet-evolution.2.webp",
-    "lib/media/5396ee05ly1hx6btdbdhjj22gw56enpe.jpg",
-    "lib/media/5396ee05ly1hx8jnoom3kj23843ueu0z.jpg",
-    "lib/media/pasted-image-20250123114329.png",
-    "lib/media/10371737586388_.pic.jpg",
-    "lib/media/640.png",
-    "lib/media/5396ee05ly1hxi1nxrvpxj234s3qku0y.jpg",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -163,889 +72,189 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 6679,
+      "modifiedTime": 1737705434017,
+      "sourceSize": 1476,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 424,
+      "modifiedTime": 1737705434017,
+      "sourceSize": 266,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 41426,
+      "modifiedTime": 1737705434017,
+      "sourceSize": 287984,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 435,
+      "modifiedTime": 1737705434017,
+      "sourceSize": 311,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 39647,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
-    "DAILY/2024.canvas": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 446464,
-      "exportedPath": "daily/2024.html",
-      "dependencies": [
-        "lib/media/pasted-image-20250121050213.png",
-        "lib/media/pasted-image-20250121050226.png",
-        "lib/media/pasted-image-20250121050235.png",
-        "lib/media/pasted-image-20250121050131.png",
-        "lib/media/pasted-image-20250121050301.png",
-        "lib/media/640-6.gif",
-        "lib/media/pasted-image-20250121203543.png",
-        "lib/media/640-5.gif",
-        "lib/media/640-9.gif",
-        "lib/media/640-7.gif",
-        "lib/media/640-11.gif",
-        "lib/media/640-10.gif",
-        "lib/media/640-8.gif",
-        "lib/media/pasted-image-20250121203930.png",
-        "lib/media/640-4.gif",
-        "lib/media/640-2.gif",
-        "lib/media/640-3.gif",
-        "lib/media/pasted-image-20250120201048.png",
-        "lib/media/pasted-image-20250120201237.png",
-        "lib/media/pasted-image-20250120201130.png",
-        "lib/media/pasted-image-20250120201221.png",
-        "lib/media/pasted-image-20250120201412.png",
-        "lib/media/pasted-image-20250117191108.png",
-        "lib/media/pasted-image-20250117190941.png",
-        "lib/media/pasted-image-20250116195648.png",
-        "lib/media/pasted-image-20250116203212.png",
-        "lib/media/pasted-image-20250116195741.png",
-        "lib/media/pasted-image-20250120200421.png",
-        "lib/media/pasted-image-20250117191816.png",
-        "lib/media/pasted-image-20250113195935.png",
-        "lib/media/pasted-image-20250116195130.png",
-        "lib/media/pasted-image-20250116194715.png",
-        "lib/media/pasted-image-20250113195025.png",
-        "lib/media/pasted-image-20250113195038.png",
-        "lib/media/pasted-image-20250102172924.png",
-        "lib/media/pasted-image-20250113195542.png",
-        "lib/media/pasted-image-20250102172955.png",
-        "lib/media/pasted-image-20250102173053.png",
-        "lib/media/pasted-image-20250102173057.png",
-        "lib/media/pasted-image-20250102173101.png",
-        "lib/media/pasted-image-20250102173807.png",
-        "lib/media/pasted-image-20250102173820.png",
-        "lib/media/pasted-image-20250102173751.png",
-        "lib/media/pasted-image-20250102173022.png",
-        "lib/media/pasted-image-20250102172847.png",
-        "lib/media/pasted-image-20250113194636.png",
-        "lib/media/pasted-image-20250113194600.png",
-        "lib/media/pasted-image-20250113194555.png",
-        "lib/media/pasted-image-20250113194643.png",
-        "lib/media/pasted-image-20250102171530.png",
-        "lib/media/pasted-image-20250102171452.png",
-        "lib/media/pasted-image-20250121204345.png",
-        "lib/media/pasted-image-20250121204230.png",
-        "lib/media/pasted-image-20250121204424.png",
-        "lib/media/pasted-image-20250121204431.png",
-        "lib/media/pasted-image-20250121204225.png",
-        "lib/media/pasted-image-20250121204508.png",
-        "lib/media/pasted-image-20250102150241.png",
-        "lib/media/pasted-image-20250102150254.png",
-        "lib/media/pasted-image-20250102145831.png",
-        "lib/media/pasted-image-20250102145843.png",
-        "lib/media/pasted-image-20250102150229.png",
-        "lib/media/pasted-image-20250102145958.png"
-      ]
-    },
-    "lib/media/pasted-image-20250102145831.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 78083,
-      "exportedPath": "lib/media/pasted-image-20250102145831.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102145843.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 104487,
-      "exportedPath": "lib/media/pasted-image-20250102145843.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102145958.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 361486,
-      "exportedPath": "lib/media/pasted-image-20250102145958.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102150241.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 194802,
-      "exportedPath": "lib/media/pasted-image-20250102150241.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102150229.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 238521,
-      "exportedPath": "lib/media/pasted-image-20250102150229.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102150254.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 171878,
-      "exportedPath": "lib/media/pasted-image-20250102150254.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102171452.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 288533,
-      "exportedPath": "lib/media/pasted-image-20250102171452.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102171530.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 458420,
-      "exportedPath": "lib/media/pasted-image-20250102171530.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102172847.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 173432,
-      "exportedPath": "lib/media/pasted-image-20250102172847.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102172924.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 244390,
-      "exportedPath": "lib/media/pasted-image-20250102172924.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102172955.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 896596,
-      "exportedPath": "lib/media/pasted-image-20250102172955.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102173022.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 438676,
-      "exportedPath": "lib/media/pasted-image-20250102173022.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102173053.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 314788,
-      "exportedPath": "lib/media/pasted-image-20250102173053.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102173057.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 342352,
-      "exportedPath": "lib/media/pasted-image-20250102173057.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102173101.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 878850,
-      "exportedPath": "lib/media/pasted-image-20250102173101.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102173751.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 238932,
-      "exportedPath": "lib/media/pasted-image-20250102173751.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102173807.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 473680,
-      "exportedPath": "lib/media/pasted-image-20250102173807.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250102173820.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 53522,
-      "exportedPath": "lib/media/pasted-image-20250102173820.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250116195648.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 2137592,
-      "exportedPath": "lib/media/pasted-image-20250116195648.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250116194715.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 450196,
-      "exportedPath": "lib/media/pasted-image-20250116194715.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250116195130.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 179797,
-      "exportedPath": "lib/media/pasted-image-20250116195130.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250113195935.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 775545,
-      "exportedPath": "lib/media/pasted-image-20250113195935.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250120200421.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 326991,
-      "exportedPath": "lib/media/pasted-image-20250120200421.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250117191816.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 1182865,
-      "exportedPath": "lib/media/pasted-image-20250117191816.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250116195741.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 154762,
-      "exportedPath": "lib/media/pasted-image-20250116195741.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250116203212.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 159526,
-      "exportedPath": "lib/media/pasted-image-20250116203212.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250117191108.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 2666722,
-      "exportedPath": "lib/media/pasted-image-20250117191108.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250117190941.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 238621,
-      "exportedPath": "lib/media/pasted-image-20250117190941.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250113195025.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 612384,
-      "exportedPath": "lib/media/pasted-image-20250113195025.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250113195038.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 272713,
-      "exportedPath": "lib/media/pasted-image-20250113195038.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250113195542.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 259141,
-      "exportedPath": "lib/media/pasted-image-20250113195542.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250113194643.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 721827,
-      "exportedPath": "lib/media/pasted-image-20250113194643.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250113194636.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 1540562,
-      "exportedPath": "lib/media/pasted-image-20250113194636.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250113194600.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 238280,
-      "exportedPath": "lib/media/pasted-image-20250113194600.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250113194555.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 238747,
-      "exportedPath": "lib/media/pasted-image-20250113194555.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250120201130.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 161621,
-      "exportedPath": "lib/media/pasted-image-20250120201130.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250120201221.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 343661,
-      "exportedPath": "lib/media/pasted-image-20250120201221.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250120201048.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 209314,
-      "exportedPath": "lib/media/pasted-image-20250120201048.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250120201237.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 276322,
-      "exportedPath": "lib/media/pasted-image-20250120201237.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250121050301.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 156398,
-      "exportedPath": "lib/media/pasted-image-20250121050301.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250121050131.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 183056,
-      "exportedPath": "lib/media/pasted-image-20250121050131.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250121050213.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 502369,
-      "exportedPath": "lib/media/pasted-image-20250121050213.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250121050226.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 955848,
-      "exportedPath": "lib/media/pasted-image-20250121050226.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250121050235.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 451906,
-      "exportedPath": "lib/media/pasted-image-20250121050235.png",
-      "dependencies": []
-    },
-    "lib/media/640-2.gif": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 699016,
-      "exportedPath": "lib/media/640-2.gif",
-      "dependencies": []
-    },
-    "lib/media/640-3.gif": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 1630986,
-      "exportedPath": "lib/media/640-3.gif",
-      "dependencies": []
-    },
-    "lib/media/640-4.gif": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 592748,
-      "exportedPath": "lib/media/640-4.gif",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250120201412.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 463760,
-      "exportedPath": "lib/media/pasted-image-20250120201412.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250121204424.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 472107,
-      "exportedPath": "lib/media/pasted-image-20250121204424.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250121204225.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 345407,
-      "exportedPath": "lib/media/pasted-image-20250121204225.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250121204230.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 174068,
-      "exportedPath": "lib/media/pasted-image-20250121204230.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250121204431.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 75799,
-      "exportedPath": "lib/media/pasted-image-20250121204431.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250121204508.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 175852,
-      "exportedPath": "lib/media/pasted-image-20250121204508.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250121204345.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 204183,
-      "exportedPath": "lib/media/pasted-image-20250121204345.png",
-      "dependencies": []
-    },
-    "lib/media/640-7.gif": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 5085109,
-      "exportedPath": "lib/media/640-7.gif",
-      "dependencies": []
-    },
-    "lib/media/640-8.gif": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 2128460,
-      "exportedPath": "lib/media/640-8.gif",
-      "dependencies": []
-    },
-    "lib/media/640-10.gif": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 6504188,
-      "exportedPath": "lib/media/640-10.gif",
-      "dependencies": []
-    },
-    "lib/media/640-11.gif": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 5218143,
-      "exportedPath": "lib/media/640-11.gif",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250121203930.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 179302,
-      "exportedPath": "lib/media/pasted-image-20250121203930.png",
-      "dependencies": []
-    },
-    "lib/media/640-5.gif": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 6327691,
-      "exportedPath": "lib/media/640-5.gif",
-      "dependencies": []
-    },
-    "lib/media/640-6.gif": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 6942848,
-      "exportedPath": "lib/media/640-6.gif",
-      "dependencies": []
-    },
-    "lib/media/640-9.gif": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 6297218,
-      "exportedPath": "lib/media/640-9.gif",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250121203543.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 469884,
-      "exportedPath": "lib/media/pasted-image-20250121203543.png",
-      "dependencies": []
-    },
-    "DAILY/24-10.canvas": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 89556,
-      "exportedPath": "daily/24-10.html",
-      "dependencies": [
-        "lib/media/pasted-image-20250102145831.png",
-        "lib/media/pasted-image-20250102145843.png",
-        "lib/media/pasted-image-20250102145958.png",
-        "lib/media/pasted-image-20250102150241.png",
-        "lib/media/pasted-image-20250102150229.png",
-        "lib/media/pasted-image-20250102150254.png",
-        "lib/media/pasted-image-20250102171452.png",
-        "lib/media/pasted-image-20250102171530.png",
-        "lib/media/pasted-image-20250102172847.png",
-        "lib/media/pasted-image-20250102172924.png",
-        "lib/media/pasted-image-20250102172955.png",
-        "lib/media/pasted-image-20250102173022.png",
-        "lib/media/pasted-image-20250102173053.png",
-        "lib/media/pasted-image-20250102173057.png",
-        "lib/media/pasted-image-20250102173101.png",
-        "lib/media/pasted-image-20250102173751.png",
-        "lib/media/pasted-image-20250102173807.png",
-        "lib/media/pasted-image-20250102173820.png"
-      ]
-    },
-    "DAILY/24-11.canvas": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 205935,
-      "exportedPath": "daily/24-11.html",
-      "dependencies": [
-        "lib/media/pasted-image-20250116195648.png",
-        "lib/media/pasted-image-20250116194715.png",
-        "lib/media/pasted-image-20250116195130.png",
-        "lib/media/pasted-image-20250113195935.png",
-        "lib/media/pasted-image-20250120200421.png",
-        "lib/media/pasted-image-20250117191816.png",
-        "lib/media/pasted-image-20250116195741.png",
-        "lib/media/pasted-image-20250116203212.png",
-        "lib/media/pasted-image-20250117191108.png",
-        "lib/media/pasted-image-20250117190941.png",
-        "lib/media/pasted-image-20250113195025.png",
-        "lib/media/pasted-image-20250113195038.png",
-        "lib/media/pasted-image-20250113195542.png",
-        "lib/media/pasted-image-20250113194643.png",
-        "lib/media/pasted-image-20250113194636.png",
-        "lib/media/pasted-image-20250113194600.png",
-        "lib/media/pasted-image-20250113194555.png"
-      ]
-    },
-    "DAILY/24-12.canvas": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 149910,
-      "exportedPath": "daily/24-12.html",
-      "dependencies": [
-        "lib/media/pasted-image-20250120201130.png",
-        "lib/media/pasted-image-20250120201221.png",
-        "lib/media/pasted-image-20250120201048.png",
-        "lib/media/pasted-image-20250120201237.png",
-        "lib/media/pasted-image-20250121050301.png",
-        "lib/media/pasted-image-20250121050131.png",
-        "lib/media/pasted-image-20250121050213.png",
-        "lib/media/pasted-image-20250121050226.png",
-        "lib/media/pasted-image-20250121050235.png",
-        "lib/media/640-2.gif",
-        "lib/media/640-3.gif",
-        "lib/media/640-4.gif",
-        "lib/media/pasted-image-20250120201412.png",
-        "lib/media/pasted-image-20250121204424.png",
-        "lib/media/pasted-image-20250121204225.png",
-        "lib/media/pasted-image-20250121204230.png",
-        "lib/media/pasted-image-20250121204431.png",
-        "lib/media/pasted-image-20250121204508.png",
-        "lib/media/pasted-image-20250121204345.png",
-        "lib/media/640-7.gif",
-        "lib/media/640-8.gif",
-        "lib/media/640-10.gif",
-        "lib/media/640-11.gif",
-        "lib/media/pasted-image-20250121203930.png",
-        "lib/media/640-5.gif",
-        "lib/media/640-6.gif",
-        "lib/media/640-9.gif",
-        "lib/media/pasted-image-20250121203543.png"
-      ]
-    },
-    "DAILY/25-01.canvas": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 184765,
-      "exportedPath": "daily/25-01.html",
-      "dependencies": [
-        "lib/media/640.gif",
-        "lib/media/640-1.gif",
-        "lib/media/pasted-image-20250109132739.png",
-        "lib/media/470121736402187_.pic.jpg",
-        "lib/media/759006.png",
-        "lib/media/640-3.webp",
-        "lib/media/acq_web_bio-alexhormozi-2.webp",
-        "lib/media/640-4.webp",
-        "lib/media/640-5.webp",
-        "lib/media/task_3-1400.webp",
-        "lib/media/17170543581931695551054782toregem_1_ypbtua.png",
-        "lib/media/640-2.webp",
-        "lib/media/640.webp",
-        "lib/media/640-1.webp",
-        "lib/media/5396ee05ly1hx8xf1idqdj23843uqkjr.jpg",
-        "lib/media/write_alphabet.gif",
-        "lib/media/alphabet-evolution.2.webp",
-        "lib/media/5396ee05ly1hx6btdbdhjj22gw56enpe.jpg",
-        "lib/media/5396ee05ly1hx8jnoom3kj23843ueu0z.jpg",
-        "lib/media/pasted-image-20250123114329.png",
-        "lib/media/10371737586388_.pic.jpg",
-        "lib/media/640.png",
-        "lib/media/5396ee05ly1hxi1nxrvpxj234s3qku0y.jpg"
-      ]
-    },
     "DAILY.canvas": {
-      "modifiedTime": 1737701789514,
+      "modifiedTime": 1737705434017,
       "sourceSize": 1536,
       "exportedPath": "daily.html",
-      "dependencies": []
-    },
-    "lib/media/640.gif": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 6603753,
-      "exportedPath": "lib/media/640.gif",
-      "dependencies": []
-    },
-    "lib/media/640-1.gif": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 8004938,
-      "exportedPath": "lib/media/640-1.gif",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250109132739.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 71026,
-      "exportedPath": "lib/media/pasted-image-20250109132739.png",
-      "dependencies": []
-    },
-    "lib/media/470121736402187_.pic.jpg": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 138689,
-      "exportedPath": "lib/media/470121736402187_.pic.jpg",
-      "dependencies": []
-    },
-    "lib/media/759006.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 66145,
-      "exportedPath": "lib/media/759006.png",
-      "dependencies": []
-    },
-    "lib/media/640-3.webp": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 269038,
-      "exportedPath": "lib/media/640-3.webp",
-      "dependencies": []
-    },
-    "lib/media/acq_web_bio-alexhormozi-2.webp": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 173240,
-      "exportedPath": "lib/media/acq_web_bio-alexhormozi-2.webp",
-      "dependencies": []
-    },
-    "lib/media/640-4.webp": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 20896,
-      "exportedPath": "lib/media/640-4.webp",
-      "dependencies": []
-    },
-    "lib/media/640-5.webp": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 44438,
-      "exportedPath": "lib/media/640-5.webp",
-      "dependencies": []
-    },
-    "lib/media/task_3-1400.webp": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 64410,
-      "exportedPath": "lib/media/task_3-1400.webp",
-      "dependencies": []
-    },
-    "lib/media/17170543581931695551054782toregem_1_ypbtua.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 181656,
-      "exportedPath": "lib/media/17170543581931695551054782toregem_1_ypbtua.png",
-      "dependencies": []
-    },
-    "lib/media/640-2.webp": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 56230,
-      "exportedPath": "lib/media/640-2.webp",
-      "dependencies": []
-    },
-    "lib/media/640.webp": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 27716,
-      "exportedPath": "lib/media/640.webp",
-      "dependencies": []
-    },
-    "lib/media/640-1.webp": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 17930,
-      "exportedPath": "lib/media/640-1.webp",
-      "dependencies": []
-    },
-    "lib/media/5396ee05ly1hx8xf1idqdj23843uqkjr.jpg": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 283400,
-      "exportedPath": "lib/media/5396ee05ly1hx8xf1idqdj23843uqkjr.jpg",
-      "dependencies": []
-    },
-    "lib/media/write_alphabet.gif": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 14442,
-      "exportedPath": "lib/media/write_alphabet.gif",
-      "dependencies": []
-    },
-    "lib/media/alphabet-evolution.2.webp": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 83998,
-      "exportedPath": "lib/media/alphabet-evolution.2.webp",
-      "dependencies": []
-    },
-    "lib/media/5396ee05ly1hx6btdbdhjj22gw56enpe.jpg": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 189234,
-      "exportedPath": "lib/media/5396ee05ly1hx6btdbdhjj22gw56enpe.jpg",
-      "dependencies": []
-    },
-    "lib/media/5396ee05ly1hx8jnoom3kj23843ueu0z.jpg": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 164543,
-      "exportedPath": "lib/media/5396ee05ly1hx8jnoom3kj23843ueu0z.jpg",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20250123114329.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 1108537,
-      "exportedPath": "lib/media/pasted-image-20250123114329.png",
-      "dependencies": []
-    },
-    "lib/media/10371737586388_.pic.jpg": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 107697,
-      "exportedPath": "lib/media/10371737586388_.pic.jpg",
-      "dependencies": []
-    },
-    "lib/media/640.png": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 149042,
-      "exportedPath": "lib/media/640.png",
-      "dependencies": []
-    },
-    "lib/media/5396ee05ly1hxi1nxrvpxj234s3qku0y.jpg": {
-      "modifiedTime": 1737701789514,
-      "sourceSize": 175346,
-      "exportedPath": "lib/media/5396ee05ly1hxi1nxrvpxj234s3qku0y.jpg",
       "dependencies": []
     }
   }
